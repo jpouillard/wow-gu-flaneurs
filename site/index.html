@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>La Taverne des Flâneurs</title>
+  <meta name="description" content="La Taverne des Flâneurs : guilde casual PvE Alliance sur World of Warcraft: Forever (EU). Roster, progression des membres et recrutement.">
+  <meta property="og:title" content="La Taverne des Flâneurs">
+  <meta property="og:description" content="Guilde casual PvE Alliance sur WoW Forever (EU). Posez votre sac, la tournée est pour nous.">
+  <link rel="icon" href="assets/emblem.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <symbol id="discord-glyph" viewBox="0 0 24 24"><path fill="currentColor" d="M20.3 4.4A19.6 19.6 0 0 0 15.4 3l-.6 1.3a18 18 0 0 0-5.6 0L8.6 3a19.5 19.5 0 0 0-4.9 1.5C.6 9.1-.3 13.7.1 18.2a19.8 19.8 0 0 0 6 3l1.3-2.1a12.8 12.8 0 0 1-2-1l.5-.4a14 14 0 0 0 12.2 0l.5.4c-.6.4-1.3.7-2 1l1.3 2.1a19.7 19.7 0 0 0 6-3c.5-5.2-.9-9.8-3.7-13.8ZM8 15.4c-1.2 0-2.2-1.1-2.2-2.4S6.8 10.6 8 10.6s2.2 1.1 2.2 2.4-1 2.4-2.2 2.4Zm8 0c-1.2 0-2.2-1.1-2.2-2.4s1-2.4 2.2-2.4 2.2 1.1 2.2 2.4-1 2.4-2.2 2.4Z"/></symbol>
+  </svg>
+  <header class="topbar">
+    <a class="brand" href="#accueil"><img src="assets/emblem.svg" alt="" width="34" height="34"><span>La Taverne des Flâneurs</span></a>
+    <button class="menu-toggle" aria-label="Ouvrir le menu" aria-expanded="false">☰</button>
+    <nav class="nav" aria-label="Navigation principale">
+      <a href="#guilde">La guilde</a>
+      <a href="#roster">Roster</a>
+      <a href="#evolution">Évolution</a>
+      <a href="#exploits">Exploits</a>
+      <a href="#recrutement">Rejoindre</a>
+      <a class="nav-discord" href="https://discord.gg/xsM7Nz9SjV" target="_blank" rel="noopener" aria-label="Discord de la guilde">
+        <svg class="discord-icon" viewBox="0 0 24 24" aria-hidden="true"><use href="#discord-glyph"/></svg><span>Discord</span>
+      </a>
+    </nav>
+  </header>
+
+  <div id="demo-banner" class="demo-banner" hidden>
+    Données de démonstration : le vrai roster s'affichera après la première synchronisation avec l'API Blizzard.
+  </div>
+
+  <main>
+    <!-- ACCUEIL -->
+    <section id="accueil" class="hero">
+      <div class="hero-inner">
+        <img class="hero-emblem" src="assets/emblem.svg" alt="Emblème de la guilde : une chope de bière" width="120" height="120">
+        <p class="eyebrow">World of Warcraft: Forever · EU · Alliance</p>
+        <h1>La Taverne des Flâneurs</h1>
+        <p class="tagline">Posez votre sac, tirez une chaise : ici on monte de niveau à son rythme,<br class="hide-sm"> on explore Azeroth sans chrono et on raide entre amis.</p>
+        <div class="hero-actions">
+          <a class="btn btn-gold" href="#recrutement">Rejoindre la taverne</a>
+          <a class="btn btn-ghost btn-discord" href="https://discord.gg/xsM7Nz9SjV" target="_blank" rel="noopener">
+            <svg class="discord-icon" viewBox="0 0 24 24" aria-hidden="true"><use href="#discord-glyph"/></svg>
+            Notre Discord
+          </a>
+        </div>
+        <dl class="hero-stats" id="hero-stats" aria-live="polite">
+          <div><dt>Membres</dt><dd data-stat="members">–</dd></div>
+          <div><dt>Niveau moyen</dt><dd data-stat="avg">–</dd></div>
+          <div><dt>Niveau 60</dt><dd data-stat="maxed">–</dd></div>
+          <div><dt>Niveaux gagnés (7 j)</dt><dd data-stat="week">–</dd></div>
+        </dl>
+      </div>
+    </section>
+
+    <!-- LA GUILDE -->
+    <section id="guilde" class="section">
+      <div class="container">
+        <h2 class="section-title">La guilde</h2>
+        <p class="section-lead">Une guilde casual, orientée PvE, pour celles et ceux qui préfèrent la balade au sprint.</p>
+        <div class="cards-3">
+          <article class="card parchment">
+            <div class="card-icon" aria-hidden="true">🍺</div>
+            <h3>Sans pression</h3>
+            <p>Pas d'obligation de présence ni de course au niveau. On joue quand on peut, comme on aime. La vie réelle passe avant tout.</p>
+          </article>
+          <article class="card parchment">
+            <div class="card-icon" aria-hidden="true">🗺️</div>
+            <h3>Du PvE pour tous</h3>
+            <p>Quêtes en groupe, donjons du soir, élites de zone et, une fois prêts, les raids dès leur ouverture le 9 décembre.</p>
+          </article>
+          <article class="card parchment">
+            <div class="card-icon" aria-hidden="true">🤝</div>
+            <h3>Entraide et bonne humeur</h3>
+            <p>Les plus avancés donnent un coup de main aux nouveaux, on partage les bons plans et on rit beaucoup sur le <a href="https://discord.gg/xsM7Nz9SjV" target="_blank" rel="noopener">Discord</a>.</p>
+          </article>
+        </div>
+
+        <div class="schedule parchment">
+          <h3>À la carte de la taverne</h3>
+          <ul>
+            <li><strong>Tous les soirs</strong> · groupes de leveling et donjons au fil de l'eau</li>
+            <li><strong>Mercredi 21 h</strong> · sortie donjon de guilde</li>
+            <li><strong>Dimanche 20 h 30</strong> · soirée découverte (zones, élites, raids à partir de décembre)</li>
+          </ul>
+          <p class="muted small">Horaires indicatifs, à adapter selon les envies de chacun.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ROSTER -->
+    <section id="roster" class="section section-dark">
+      <div class="container">
+        <h2 class="section-title">Les habitués</h2>
+        <p class="section-lead" id="roster-updated">Chargement du roster…</p>
+
+        <div class="class-bars" id="class-bars" aria-label="Répartition des classes"></div>
+
+        <div class="filters" role="search">
+          <label class="field">
+            <span>Rechercher</span>
+            <input type="search" id="f-search" placeholder="Nom du personnage…" autocomplete="off">
+          </label>
+          <label class="field">
+            <span>Classe</span>
+            <select id="f-class"><option value="">Toutes</option></select>
+          </label>
+          <label class="field">
+            <span>Trier par</span>
+            <select id="f-sort">
+              <option value="rank">Rang</option>
+              <option value="level">Niveau</option>
+              <option value="gain">Progression 7 j</option>
+              <option value="name">Nom</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="roster-grid" id="roster-grid"></div>
+        <p class="empty" id="roster-empty" hidden>Aucun membre ne correspond à ces critères.</p>
+      </div>
+    </section>
+
+    <!-- EVOLUTION -->
+    <section id="evolution" class="section">
+      <div class="container">
+        <h2 class="section-title">L'évolution des membres</h2>
+        <p class="section-lead">Le roster est relevé plusieurs fois par jour : voici qui grimpe, et à quelle vitesse.</p>
+
+        <div class="evo-grid">
+          <article class="card parchment">
+            <h3>Les plus belles montées de la semaine</h3>
+            <ol class="leaderboard" id="leaderboard"></ol>
+          </article>
+          <article class="card parchment">
+            <h3>La guilde au fil des jours</h3>
+            <div class="chart-box"><canvas id="chart-guild" aria-label="Niveau moyen et nombre de membres par jour" role="img"></canvas></div>
+          </article>
+        </div>
+
+        <article class="card parchment">
+          <div class="chart-head">
+            <h3>Courbes de niveau</h3>
+            <div class="chart-controls">
+              <button class="chip-btn" data-preset="top">Top progression</button>
+              <button class="chip-btn" data-preset="highest">Plus hauts niveaux</button>
+              <button class="chip-btn" data-preset="none">Aucun</button>
+            </div>
+          </div>
+          <div class="chart-box chart-tall"><canvas id="chart-members" aria-label="Niveau de chaque membre sélectionné au fil des jours" role="img"></canvas></div>
+          <p class="muted small">Cliquez sur les noms pour les afficher ou les masquer (8 au maximum).</p>
+          <div class="member-chips" id="member-chips"></div>
+        </article>
+
+        <article class="card parchment">
+          <h3>Le carnet du tavernier</h3>
+          <ul class="feed" id="feed"></ul>
+        </article>
+      </div>
+    </section>
+
+    <!-- EXPLOITS -->
+    <section id="exploits" class="section section-dark">
+      <div class="container">
+        <h2 class="section-title">Hauts faits de la guilde</h2>
+        <ul class="achievements" id="achievements"></ul>
+      </div>
+    </section>
+
+    <!-- RECRUTEMENT -->
+    <section id="recrutement" class="section">
+      <div class="container narrow">
+        <h2 class="section-title">Rejoindre la taverne</h2>
+        <div class="card parchment">
+          <p>La porte est toujours ouverte. Que vous découvriez WoW ou que vous ayez arpenté Azeroth en 2004, il y a une place au comptoir pour vous.</p>
+          <ul class="checklist">
+            <li>Personnage <strong>Alliance</strong> sur un serveur <strong>Normal (PvE) EU</strong> de WoW: Forever</li>
+            <li>De la bonne humeur et du respect envers les autres membres</li>
+            <li>Aucun niveau minimum, aucune obligation de présence</li>
+          </ul>
+          <div class="hero-actions">
+            <a class="btn btn-gold btn-discord" href="https://discord.gg/xsM7Nz9SjV" target="_blank" rel="noopener">
+              <svg class="discord-icon" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M20.3 4.4A19.6 19.6 0 0 0 15.4 3l-.6 1.3a18 18 0 0 0-5.6 0L8.6 3a19.5 19.5 0 0 0-4.9 1.5C.6 9.1-.3 13.7.1 18.2a19.8 19.8 0 0 0 6 3l1.3-2.1a12.8 12.8 0 0 1-2-1l.5-.4a14 14 0 0 0 12.2 0l.5.4c-.6.4-1.3.7-2 1l1.3 2.1a19.7 19.7 0 0 0 6-3c.5-5.2-.9-9.8-3.7-13.8ZM8 15.4c-1.2 0-2.2-1.1-2.2-2.4S6.8 10.6 8 10.6s2.2 1.1 2.2 2.4-1 2.4-2.2 2.4Zm8 0c-1.2 0-2.2-1.1-2.2-2.4s1-2.4 2.2-2.4 2.2 1.1 2.2 2.4-1 2.4-2.2 2.4Z"/></svg>
+              Rejoindre le Discord
+            </a>
+          </div>
+          <p class="muted small">En jeu : chuchotez un officier ou un membre connecté pour une invitation.</p>
+        </div>
+
+        <h3 class="faq-title">Questions fréquentes</h3>
+        <details class="faq"><summary>Faut-il être disponible à heures fixes ?</summary><p>Non. Les soirées de guilde sont proposées, jamais imposées.</p></details>
+        <details class="faq"><summary>La guilde fera-t-elle les raids ?</summary><p>Oui, à notre rythme, à partir de leur ouverture le 9 décembre. Tout le monde est le bienvenu, stuff parfait ou non.</p></details>
+        <details class="faq"><summary>Je ne vois pas mon personnage dans le roster, c'est normal ?</summary><p>L'API Blizzard n'affiche les personnages qu'à partir du niveau 10, et après une déconnexion. Patience, vous apparaîtrez à la prochaine mise à jour.</p></details>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>La Taverne des Flâneurs · Guilde Alliance · WoW: Forever EU · <a href="https://discord.gg/xsM7Nz9SjV" target="_blank" rel="noopener">Discord</a></p>
+    <p class="muted small">Site de fans non officiel. World of Warcraft est une marque de Blizzard Entertainment. Données issues de l'API Battle.net.</p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <script src="js/app.js" type="module"></script>
+</body>
+</html>

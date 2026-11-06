@@ -1,0 +1,43 @@
+name: Mise à jour du roster
+
+on:
+  schedule:
+    # Toutes les 6 heures (heure UTC)
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-roster
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Récupérer le roster depuis l'API Blizzard
+        env:
+          BLIZZARD_CLIENT_ID: ${{ secrets.BLIZZARD_CLIENT_ID }}
+          BLIZZARD_CLIENT_SECRET: ${{ secrets.BLIZZARD_CLIENT_SECRET }}
+          GUILD_SLUG: ${{ vars.GUILD_SLUG }}
+        run: node scripts/fetch-roster.mjs
+
+      - name: Enregistrer les données
+        run: |
+          git config user.name "taverne-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data
+          if git diff --staged --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "🍺 Roster du $(TZ=Europe/Paris date +'%d/%m/%Y %H:%M')"
+            git push
+          fi

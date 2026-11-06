@@ -1,0 +1,12 @@
+{
+  "name": "la-taverne-des-flaneurs",
+  "private": true,
+  "type": "module",
+  "description": "Site vitrine de la guilde La Taverne des Flâneurs (WoW Forever, EU, Alliance)",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "demo": "node scripts/generate-demo.mjs",
+    "fetch": "node scripts/fetch-roster.mjs"
+  }
+}

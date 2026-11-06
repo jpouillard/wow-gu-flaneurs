@@ -1,0 +1,25 @@
+{
+  "guildName": "La Taverne des Flâneurs",
+  "faction": "Alliance",
+  "region": "eu",
+  "locale": "fr_FR",
+  "namespace": "profile-forever-eu",
+  "guildSlugCandidates": [
+    "la-taverne-des-flaneurs",
+    "la-taverne-des-flâneurs"
+  ],
+  "maxLevel": 60,
+  "rankNames": [
+    "Tavernier",
+    "Barde",
+    "Habitué",
+    "Habitué",
+    "Flâneur",
+    "Flâneur",
+    "Flâneur",
+    "Flâneur",
+    "Voyageur",
+    "Voyageur"
+  ],
+  "historyEventsLimit": 300
+}
