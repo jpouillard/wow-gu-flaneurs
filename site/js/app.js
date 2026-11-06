@@ -15,7 +15,8 @@ const CLASSES = {
   9: { name: 'Démoniste', color: '#8788EE' },
   11: { name: 'Druide', color: '#FF7C0A' },
 };
-const RACES = { 1: 'Humain', 3: 'Nain', 4: 'Elfe de la nuit', 7: 'Gnome' };
+// 95 = Skyborne (nouvelle race de WoW Forever), nom renvoyé par l'API en fr_FR
+const RACES = { 1: 'Humain', 3: 'Nain', 4: 'Elfe de la nuit', 7: 'Gnome', 95: 'Éolide de l’Ordre suprême' };
 // Couleurs lisibles sur fond parchemin pour les courbes
 const SERIES = ['#8c2f1b', '#1f5f8b', '#3b7a2a', '#7a3d8f', '#b06a00', '#0f766e', '#a3214f', '#4b3a8c'];
 

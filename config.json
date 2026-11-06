@@ -5,8 +5,8 @@
   "locale": "fr_FR",
   "namespace": "profile-forever-eu",
   "guildSlugCandidates": [
-    "la-taverne-des-flaneurs",
-    "la-taverne-des-flâneurs"
+    "la-taverne-des-flâneurs",
+    "la-taverne-des-flaneurs"
   ],
   "maxLevel": 60,
   "rankNames": [
