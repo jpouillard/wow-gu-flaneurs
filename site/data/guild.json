@@ -1,31 +1,10 @@
 {
- "demo": true,
- "updatedAt": "2026-11-06T09:23:06.894Z",
- "name": "La Taverne des Flâneurs",
+ "demo": false,
+ "updatedAt": "2026-11-06T09:41:57.371Z",
+ "name": "La Taverne Des Flâneurs",
  "faction": "Alliance",
- "memberCount": 29,
- "achievementPoints": 340,
- "created": 1792142586894,
- "achievements": [
-  {
-   "name": "Une guilde à son apogée : niveau 40 x5",
-   "timestamp": 1793870586894
-  },
-  {
-   "name": "Explorateurs des Paluns",
-   "timestamp": 1793697786894
-  },
-  {
-   "name": "Les Mortemines",
-   "timestamp": 1793438586894
-  },
-  {
-   "name": "Dix membres niveau 20",
-   "timestamp": 1793179386894
-  },
-  {
-   "name": "Charte de guilde",
-   "timestamp": 1792228986894
-  }
- ]
+ "memberCount": 106,
+ "achievementPoints": 0,
+ "created": 1793840153000,
+ "achievements": []
 }
