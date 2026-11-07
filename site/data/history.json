@@ -12,6 +12,10 @@
     [
      "2026-11-06",
      12
+    ],
+    [
+     "2026-11-07",
+     14
     ]
    ]
   },
@@ -54,6 +58,10 @@
     [
      "2026-11-06",
      3
+    ],
+    [
+     "2026-11-07",
+     6
     ]
    ]
   },
@@ -68,6 +76,10 @@
     [
      "2026-11-06",
      16
+    ],
+    [
+     "2026-11-07",
+     19
     ]
    ]
   },
@@ -82,6 +94,10 @@
     [
      "2026-11-06",
      11
+    ],
+    [
+     "2026-11-07",
+     13
     ]
    ]
   },
@@ -96,6 +112,10 @@
     [
      "2026-11-06",
      17
+    ],
+    [
+     "2026-11-07",
+     19
     ]
    ]
   },
@@ -110,6 +130,10 @@
     [
      "2026-11-06",
      9
+    ],
+    [
+     "2026-11-07",
+     11
     ]
    ]
   },
@@ -152,6 +176,10 @@
     [
      "2026-11-06",
      9
+    ],
+    [
+     "2026-11-07",
+     12
     ]
    ]
   },
@@ -166,6 +194,10 @@
     [
      "2026-11-06",
      12
+    ],
+    [
+     "2026-11-07",
+     16
     ]
    ]
   },
@@ -180,6 +212,10 @@
     [
      "2026-11-06",
      12
+    ],
+    [
+     "2026-11-07",
+     16
     ]
    ]
   },
@@ -194,6 +230,10 @@
     [
      "2026-11-06",
      13
+    ],
+    [
+     "2026-11-07",
+     14
     ]
    ]
   },
@@ -208,6 +248,10 @@
     [
      "2026-11-06",
      11
+    ],
+    [
+     "2026-11-07",
+     13
     ]
    ]
   },
@@ -250,6 +294,10 @@
     [
      "2026-11-06",
      7
+    ],
+    [
+     "2026-11-07",
+     9
     ]
    ]
   },
@@ -264,6 +312,10 @@
     [
      "2026-11-06",
      3
+    ],
+    [
+     "2026-11-07",
+     4
     ]
    ]
   },
@@ -278,6 +330,10 @@
     [
      "2026-11-06",
      12
+    ],
+    [
+     "2026-11-07",
+     14
     ]
    ]
   },
@@ -292,6 +348,10 @@
     [
      "2026-11-06",
      14
+    ],
+    [
+     "2026-11-07",
+     15
     ]
    ]
   },
@@ -306,6 +366,10 @@
     [
      "2026-11-06",
      8
+    ],
+    [
+     "2026-11-07",
+     9
     ]
    ]
   },
@@ -320,6 +384,10 @@
     [
      "2026-11-06",
      12
+    ],
+    [
+     "2026-11-07",
+     16
     ]
    ]
   },
@@ -334,6 +402,10 @@
     [
      "2026-11-06",
      10
+    ],
+    [
+     "2026-11-07",
+     12
     ]
    ]
   },
@@ -348,6 +420,10 @@
     [
      "2026-11-06",
      13
+    ],
+    [
+     "2026-11-07",
+     14
     ]
    ]
   },
@@ -376,6 +452,10 @@
     [
      "2026-11-06",
      12
+    ],
+    [
+     "2026-11-07",
+     16
     ]
    ]
   },
@@ -432,6 +512,10 @@
     [
      "2026-11-06",
      14
+    ],
+    [
+     "2026-11-07",
+     18
     ]
    ]
   },
@@ -446,6 +530,10 @@
     [
      "2026-11-06",
      22
+    ],
+    [
+     "2026-11-07",
+     25
     ]
    ]
   },
@@ -460,6 +548,10 @@
     [
      "2026-11-06",
      7
+    ],
+    [
+     "2026-11-07",
+     10
     ]
    ]
   },
@@ -474,6 +566,10 @@
     [
      "2026-11-06",
      18
+    ],
+    [
+     "2026-11-07",
+     19
     ]
    ]
   },
@@ -488,6 +584,10 @@
     [
      "2026-11-06",
      17
+    ],
+    [
+     "2026-11-07",
+     19
     ]
    ]
   },
@@ -502,6 +602,10 @@
     [
      "2026-11-06",
      11
+    ],
+    [
+     "2026-11-07",
+     13
     ]
    ]
   },
@@ -516,6 +620,10 @@
     [
      "2026-11-06",
      14
+    ],
+    [
+     "2026-11-07",
+     17
     ]
    ]
   },
@@ -530,6 +638,10 @@
     [
      "2026-11-06",
      20
+    ],
+    [
+     "2026-11-07",
+     21
     ]
    ]
   },
@@ -544,6 +656,10 @@
     [
      "2026-11-06",
      16
+    ],
+    [
+     "2026-11-07",
+     19
     ]
    ]
   },
@@ -558,6 +674,10 @@
     [
      "2026-11-06",
      16
+    ],
+    [
+     "2026-11-07",
+     18
     ]
    ]
   },
@@ -586,6 +706,10 @@
     [
      "2026-11-06",
      12
+    ],
+    [
+     "2026-11-07",
+     13
     ]
    ]
   },
@@ -595,7 +719,7 @@
    "classId": 5,
    "raceId": 1,
    "joined": "2026-11-06",
-   "left": null,
+   "left": "2026-11-07",
    "levels": [
     [
      "2026-11-06",
@@ -614,6 +738,10 @@
     [
      "2026-11-06",
      14
+    ],
+    [
+     "2026-11-07",
+     15
     ]
    ]
   },
@@ -628,6 +756,10 @@
     [
      "2026-11-06",
      15
+    ],
+    [
+     "2026-11-07",
+     16
     ]
    ]
   },
@@ -670,6 +802,10 @@
     [
      "2026-11-06",
      16
+    ],
+    [
+     "2026-11-07",
+     17
     ]
    ]
   },
@@ -684,6 +820,10 @@
     [
      "2026-11-06",
      19
+    ],
+    [
+     "2026-11-07",
+     21
     ]
    ]
   },
@@ -712,6 +852,10 @@
     [
      "2026-11-06",
      12
+    ],
+    [
+     "2026-11-07",
+     15
     ]
    ]
   },
@@ -726,6 +870,10 @@
     [
      "2026-11-06",
      12
+    ],
+    [
+     "2026-11-07",
+     14
     ]
    ]
   },
@@ -740,6 +888,10 @@
     [
      "2026-11-06",
      13
+    ],
+    [
+     "2026-11-07",
+     16
     ]
    ]
   },
@@ -782,6 +934,10 @@
     [
      "2026-11-06",
      10
+    ],
+    [
+     "2026-11-07",
+     12
     ]
    ]
   },
@@ -796,6 +952,10 @@
     [
      "2026-11-06",
      11
+    ],
+    [
+     "2026-11-07",
+     14
     ]
    ]
   },
@@ -833,7 +993,7 @@
    "classId": 11,
    "raceId": 95,
    "joined": "2026-11-06",
-   "left": null,
+   "left": "2026-11-07",
    "levels": [
     [
      "2026-11-06",
@@ -936,6 +1096,10 @@
     [
      "2026-11-06",
      7
+    ],
+    [
+     "2026-11-07",
+     8
     ]
    ]
   },
@@ -950,6 +1114,10 @@
     [
      "2026-11-06",
      3
+    ],
+    [
+     "2026-11-07",
+     8
     ]
    ]
   },
@@ -978,6 +1146,10 @@
     [
      "2026-11-06",
      9
+    ],
+    [
+     "2026-11-07",
+     13
     ]
    ]
   },
@@ -992,6 +1164,10 @@
     [
      "2026-11-06",
      23
+    ],
+    [
+     "2026-11-07",
+     25
     ]
    ]
   },
@@ -1006,6 +1182,10 @@
     [
      "2026-11-06",
      10
+    ],
+    [
+     "2026-11-07",
+     14
     ]
    ]
   },
@@ -1020,6 +1200,10 @@
     [
      "2026-11-06",
      10
+    ],
+    [
+     "2026-11-07",
+     12
     ]
    ]
   },
@@ -1048,6 +1232,10 @@
     [
      "2026-11-06",
      14
+    ],
+    [
+     "2026-11-07",
+     16
     ]
    ]
   },
@@ -1090,6 +1278,10 @@
     [
      "2026-11-06",
      13
+    ],
+    [
+     "2026-11-07",
+     14
     ]
    ]
   },
@@ -1146,6 +1338,10 @@
     [
      "2026-11-06",
      15
+    ],
+    [
+     "2026-11-07",
+     16
     ]
    ]
   },
@@ -1160,6 +1356,10 @@
     [
      "2026-11-06",
      14
+    ],
+    [
+     "2026-11-07",
+     17
     ]
    ]
   },
@@ -1174,6 +1374,10 @@
     [
      "2026-11-06",
      11
+    ],
+    [
+     "2026-11-07",
+     13
     ]
    ]
   },
@@ -1188,6 +1392,10 @@
     [
      "2026-11-06",
      7
+    ],
+    [
+     "2026-11-07",
+     12
     ]
    ]
   },
@@ -1244,6 +1452,10 @@
     [
      "2026-11-06",
      10
+    ],
+    [
+     "2026-11-07",
+     13
     ]
    ]
   },
@@ -1272,6 +1484,10 @@
     [
      "2026-11-06",
      12
+    ],
+    [
+     "2026-11-07",
+     14
     ]
    ]
   },
@@ -1314,6 +1530,10 @@
     [
      "2026-11-06",
      10
+    ],
+    [
+     "2026-11-07",
+     13
     ]
    ]
   },
@@ -1328,6 +1548,10 @@
     [
      "2026-11-06",
      15
+    ],
+    [
+     "2026-11-07",
+     16
     ]
    ]
   },
@@ -1342,6 +1566,10 @@
     [
      "2026-11-06",
      9
+    ],
+    [
+     "2026-11-07",
+     11
     ]
    ]
   },
@@ -1365,7 +1593,7 @@
    "classId": 1,
    "raceId": 1,
    "joined": "2026-11-06",
-   "left": null,
+   "left": "2026-11-07",
    "levels": [
     [
      "2026-11-06",
@@ -1384,6 +1612,10 @@
     [
      "2026-11-06",
      4
+    ],
+    [
+     "2026-11-07",
+     6
     ]
    ]
   },
@@ -1398,6 +1630,10 @@
     [
      "2026-11-06",
      5
+    ],
+    [
+     "2026-11-07",
+     8
     ]
    ]
   },
@@ -1426,6 +1662,10 @@
     [
      "2026-11-06",
      4
+    ],
+    [
+     "2026-11-07",
+     7
     ]
    ]
   },
@@ -1468,6 +1708,10 @@
     [
      "2026-11-06",
      10
+    ],
+    [
+     "2026-11-07",
+     12
     ]
    ]
   },
@@ -1510,6 +1754,10 @@
     [
      "2026-11-06",
      9
+    ],
+    [
+     "2026-11-07",
+     11
     ]
    ]
   },
@@ -1566,6 +1814,10 @@
     [
      "2026-11-06",
      16
+    ],
+    [
+     "2026-11-07",
+     17
     ]
    ]
   },
@@ -1580,6 +1832,10 @@
     [
      "2026-11-06",
      14
+    ],
+    [
+     "2026-11-07",
+     15
     ]
    ]
   },
@@ -1594,6 +1850,10 @@
     [
      "2026-11-06",
      13
+    ],
+    [
+     "2026-11-07",
+     15
     ]
    ]
   },
@@ -1608,6 +1868,10 @@
     [
      "2026-11-06",
      11
+    ],
+    [
+     "2026-11-07",
+     14
     ]
    ]
   },
@@ -1636,6 +1900,10 @@
     [
      "2026-11-06",
      11
+    ],
+    [
+     "2026-11-07",
+     12
     ]
    ]
   },
@@ -1664,6 +1932,10 @@
     [
      "2026-11-06",
      9
+    ],
+    [
+     "2026-11-07",
+     12
     ]
    ]
   },
@@ -1678,6 +1950,10 @@
     [
      "2026-11-06",
      9
+    ],
+    [
+     "2026-11-07",
+     13
     ]
    ]
   },
@@ -1692,6 +1968,10 @@
     [
      "2026-11-06",
      11
+    ],
+    [
+     "2026-11-07",
+     14
     ]
    ]
   },
@@ -1734,6 +2014,10 @@
     [
      "2026-11-06",
      18
+    ],
+    [
+     "2026-11-07",
+     20
     ]
    ]
   },
@@ -1748,6 +2032,10 @@
     [
      "2026-11-06",
      10
+    ],
+    [
+     "2026-11-07",
+     12
     ]
    ]
   },
@@ -1762,6 +2050,10 @@
     [
      "2026-11-06",
      10
+    ],
+    [
+     "2026-11-07",
+     12
     ]
    ]
   },
@@ -1776,6 +2068,10 @@
     [
      "2026-11-06",
      12
+    ],
+    [
+     "2026-11-07",
+     14
     ]
    ]
   },
@@ -1790,6 +2086,10 @@
     [
      "2026-11-06",
      10
+    ],
+    [
+     "2026-11-07",
+     12
     ]
    ]
   },
@@ -1804,6 +2104,10 @@
     [
      "2026-11-06",
      16
+    ],
+    [
+     "2026-11-07",
+     19
     ]
    ]
   },
@@ -1818,6 +2122,10 @@
     [
      "2026-11-06",
      8
+    ],
+    [
+     "2026-11-07",
+     10
     ]
    ]
   },
@@ -1846,6 +2154,10 @@
     [
      "2026-11-06",
      3
+    ],
+    [
+     "2026-11-07",
+     4
     ]
    ]
   },
@@ -1860,6 +2172,10 @@
     [
      "2026-11-06",
      14
+    ],
+    [
+     "2026-11-07",
+     17
     ]
    ]
   },
@@ -1874,6 +2190,10 @@
     [
      "2026-11-06",
      13
+    ],
+    [
+     "2026-11-07",
+     17
     ]
    ]
   },
@@ -1902,6 +2222,290 @@
     [
      "2026-11-06",
      13
+    ],
+    [
+     "2026-11-07",
+     21
+    ]
+   ]
+  },
+  "thermomix-cookeo": {
+   "name": "Thermomix",
+   "surname": "Cookeo",
+   "classId": 11,
+   "raceId": 95,
+   "joined": "2026-11-07",
+   "left": null,
+   "levels": [
+    [
+     "2026-11-07",
+     14
+    ]
+   ]
+  },
+  "remi-fasol": {
+   "name": "Remi",
+   "surname": "Fasol",
+   "classId": 1,
+   "raceId": 1,
+   "joined": "2026-11-07",
+   "left": null,
+   "levels": [
+    [
+     "2026-11-07",
+     7
+    ]
+   ]
+  },
+  "xenion-zopiklon": {
+   "name": "Xenion",
+   "surname": "Zopiklon",
+   "classId": 9,
+   "raceId": 7,
+   "joined": "2026-11-07",
+   "left": null,
+   "levels": [
+    [
+     "2026-11-07",
+     10
+    ]
+   ]
+  },
+  "haplo-zan": {
+   "name": "Haplo",
+   "surname": "Zan",
+   "classId": 1,
+   "raceId": 1,
+   "joined": "2026-11-07",
+   "left": null,
+   "levels": [
+    [
+     "2026-11-07",
+     15
+    ]
+   ]
+  },
+  "silias-wunjo": {
+   "name": "Silias",
+   "surname": "Wunjo",
+   "classId": 1,
+   "raceId": 1,
+   "joined": "2026-11-07",
+   "left": null,
+   "levels": [
+    [
+     "2026-11-07",
+     8
+    ]
+   ]
+  },
+  "azélia-coeurmaudit": {
+   "name": "Azélia",
+   "surname": "Coeurmaudit",
+   "classId": 9,
+   "raceId": 1,
+   "joined": "2026-11-07",
+   "left": null,
+   "levels": [
+    [
+     "2026-11-07",
+     12
+    ]
+   ]
+  },
+  "galiad-lightwin": {
+   "name": "Galiad",
+   "surname": "Lightwin",
+   "classId": 2,
+   "raceId": 1,
+   "joined": "2026-11-07",
+   "left": null,
+   "levels": [
+    [
+     "2026-11-07",
+     9
+    ]
+   ]
+  },
+  "aliah-braven": {
+   "name": "Aliah",
+   "surname": "Braven",
+   "classId": 3,
+   "raceId": 1,
+   "joined": "2026-11-07",
+   "left": null,
+   "levels": [
+    [
+     "2026-11-07",
+     6
+    ]
+   ]
+  },
+  "spyrak-sangdragon": {
+   "name": "Spyrak",
+   "surname": "Sangdragon",
+   "classId": 1,
+   "raceId": 1,
+   "joined": "2026-11-07",
+   "left": null,
+   "levels": [
+    [
+     "2026-11-07",
+     9
+    ]
+   ]
+  },
+  "machebarbe-courtepatte": {
+   "name": "Machebarbe",
+   "surname": "Courtepatte",
+   "classId": 3,
+   "raceId": 3,
+   "joined": "2026-11-07",
+   "left": null,
+   "levels": [
+    [
+     "2026-11-07",
+     4
+    ]
+   ]
+  },
+  "proto-kore": {
+   "name": "Proto",
+   "surname": "Kore",
+   "classId": 9,
+   "raceId": 7,
+   "joined": "2026-11-07",
+   "left": null,
+   "levels": [
+    [
+     "2026-11-07",
+     19
+    ]
+   ]
+  },
+  "azir-brok": {
+   "name": "Azir",
+   "surname": "Brok",
+   "classId": 2,
+   "raceId": 1,
+   "joined": "2026-11-07",
+   "left": null,
+   "levels": [
+    [
+     "2026-11-07",
+     8
+    ]
+   ]
+  },
+  "homer-dalorres": {
+   "name": "Homer",
+   "surname": "Dalorres",
+   "classId": 3,
+   "raceId": 1,
+   "joined": "2026-11-07",
+   "left": null,
+   "levels": [
+    [
+     "2026-11-07",
+     6
+    ]
+   ]
+  },
+  "helga-portelumière": {
+   "name": "Helga",
+   "surname": "Portelumière",
+   "classId": 2,
+   "raceId": 1,
+   "joined": "2026-11-07",
+   "left": null,
+   "levels": [
+    [
+     "2026-11-07",
+     3
+    ]
+   ]
+  },
+  "kataleya-babou": {
+   "name": "Kataleya",
+   "surname": "Babou",
+   "classId": 4,
+   "raceId": 4,
+   "joined": "2026-11-07",
+   "left": null,
+   "levels": [
+    [
+     "2026-11-07",
+     5
+    ]
+   ]
+  },
+  "murasaki-shidoku": {
+   "name": "Murasaki",
+   "surname": "Shidoku",
+   "classId": 3,
+   "raceId": 4,
+   "joined": "2026-11-07",
+   "left": null,
+   "levels": [
+    [
+     "2026-11-07",
+     5
+    ]
+   ]
+  },
+  "abbé-hemway": {
+   "name": "Abbé",
+   "surname": "Hemway",
+   "classId": 5,
+   "raceId": 1,
+   "joined": "2026-11-07",
+   "left": null,
+   "levels": [
+    [
+     "2026-11-07",
+     6
+    ]
+   ]
+  },
+  "danté-rouston": {
+   "name": "Danté",
+   "surname": "Rouston",
+   "classId": 2,
+   "raceId": 1,
+   "joined": "2026-11-07",
+   "left": null,
+   "levels": [
+    [
+     "2026-11-07",
+     10
+    ]
+   ]
+  },
+  "lacalote-djo": {
+   "name": "Lacalote",
+   "surname": "Djo",
+   "classId": 3,
+   "raceId": 3,
+   "joined": "2026-11-07",
+   "left": null,
+   "levels": [
+    [
+     "2026-11-07",
+     7
+    ]
+   ]
+  },
+  "snive-ptitslip": {
+   "name": "Snive",
+   "surname": "Ptitslip",
+   "classId": 8,
+   "raceId": 7,
+   "joined": "2026-11-07",
+   "left": null,
+   "levels": [
+    [
+     "2026-11-07",
+     11
     ]
    ]
   }
@@ -1913,9 +2517,718 @@
    "avgLevel": 10.8,
    "maxed": 0,
    "totalLevels": 1465
+  },
+  {
+   "date": "2026-11-07",
+   "members": 153,
+   "avgLevel": 11.7,
+   "maxed": 0,
+   "totalLevels": 1793
   }
  ],
  "events": [
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "ikichi-onizuka",
+   "from": 12,
+   "level": 14
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "naeltan-lightwalker",
+   "from": 3,
+   "level": 6
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "nikita-vodka",
+   "from": 16,
+   "level": 19
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "tängo-delurdis",
+   "from": 11,
+   "level": 13
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "démone-yack",
+   "from": 17,
+   "level": 19
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "worldof-sabri",
+   "from": 9,
+   "level": 11
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "guldyr-grisetoison",
+   "from": 9,
+   "level": 12
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "pala-dark",
+   "from": 12,
+   "level": 16
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "balguard-denorca",
+   "from": 12,
+   "level": 16
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "icar-montdefer",
+   "from": 13,
+   "level": 14
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "deadya-valombre",
+   "from": 11,
+   "level": 13
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "ormée-elderwyn",
+   "from": 7,
+   "level": 9
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "mamie-fer",
+   "from": 3,
+   "level": 4
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "pikhon-biaire",
+   "from": 12,
+   "level": 14
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "auröre-feuillelüne",
+   "from": 14,
+   "level": 15
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "jobi-joba",
+   "from": 8,
+   "level": 9
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "arpane-denorca",
+   "from": 12,
+   "level": 16
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "tsoushi-nightfall",
+   "from": 10,
+   "level": 12
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "finwel-glov",
+   "from": 13,
+   "level": 14
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "katly-tendrecuir",
+   "from": 12,
+   "level": 16
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "bromm-brassebarbe",
+   "from": 14,
+   "level": 18
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "noldoréa-briselune",
+   "from": 22,
+   "level": 25
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "kazrik-lefou",
+   "from": 7,
+   "level": 10
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "logan-blanc",
+   "from": 18,
+   "level": 19
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "wendy-choux",
+   "from": 17,
+   "level": 19
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "gualys-sansnom",
+   "from": 11,
+   "level": 13
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "akolyk-sanctaris",
+   "from": 14,
+   "level": 17
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "morgrim-barbedefer",
+   "from": 20,
+   "level": 21
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "ulric-iron",
+   "from": 16,
+   "level": 19
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "arion-obsession",
+   "from": 16,
+   "level": 18
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "ekaitza-storm",
+   "from": 12,
+   "level": 13
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "nafasgul-lehane",
+   "from": 14,
+   "level": 15
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "ricke-hunteur",
+   "from": 15,
+   "level": 16
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "panzouille-supremebull",
+   "from": 16,
+   "level": 17
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "føllow-me",
+   "from": 19,
+   "level": 21
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "gulnyr-lechauve",
+   "from": 12,
+   "level": 15
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "magnar-belbjörn",
+   "from": 12,
+   "level": 14
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "yoruhichi-shihoin",
+   "from": 13,
+   "level": 16
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "mandcore-desbois",
+   "from": 10,
+   "level": 12
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "yannxd-demoniak",
+   "from": 11,
+   "level": 14
+  },
+  {
+   "date": "2026-11-07",
+   "type": "join",
+   "key": "thermomix-cookeo",
+   "level": 14
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "arcaneus-stoneshield",
+   "from": 7,
+   "level": 8
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "arcanéïs-ironshield",
+   "from": 3,
+   "level": 8
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "kiinder-lej",
+   "from": 9,
+   "level": 13
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "nymu-levaillant",
+   "from": 23,
+   "level": 25
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "ephigenie-cudi",
+   "from": 10,
+   "level": 14
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "furiel-aerwyn",
+   "from": 10,
+   "level": 12
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "moonroe-lovecraft",
+   "from": 14,
+   "level": 16
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "miss-boreale",
+   "from": 13,
+   "level": 14
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "karma-teleri",
+   "from": 15,
+   "level": 16
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "kétamine-alamass",
+   "from": 14,
+   "level": 17
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "lou-loup",
+   "from": 11,
+   "level": 13
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "jeansoigne-pasune",
+   "from": 7,
+   "level": 12
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "naldur-sombrecoeur",
+   "from": 10,
+   "level": 13
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "raz-norh",
+   "from": 12,
+   "level": 14
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "anardyl-sylveroche",
+   "from": 10,
+   "level": 13
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "monoc-ouille",
+   "from": 15,
+   "level": 16
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "worldof-meëko",
+   "from": 9,
+   "level": 11
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "jakall-bladehelm",
+   "from": 4,
+   "level": 6
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "bluesyds-fufus",
+   "from": 5,
+   "level": 8
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "aria-bladehelm",
+   "from": 4,
+   "level": 7
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "quatgram-culsec",
+   "from": 10,
+   "level": 12
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "fargrove-steelbeard",
+   "from": 9,
+   "level": 11
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "denis-brogniart",
+   "from": 16,
+   "level": 17
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "smoke-theghost",
+   "from": 14,
+   "level": 15
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "xyyliou-wrynn",
+   "from": 13,
+   "level": 15
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "tonton-kashou",
+   "from": 11,
+   "level": 14
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "elyas-dekeliwich",
+   "from": 11,
+   "level": 12
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "starzoon-bzh",
+   "from": 9,
+   "level": 12
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "denis-lamalice",
+   "from": 9,
+   "level": 13
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "mars-dutonerre",
+   "from": 11,
+   "level": 14
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "narsil-lightkeeper",
+   "from": 18,
+   "level": 20
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "shiny-winterbeard",
+   "from": 10,
+   "level": 12
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "karma-pendragon",
+   "from": 10,
+   "level": 12
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "hakanido-lakanito",
+   "from": 12,
+   "level": 14
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "angel-dæth",
+   "from": 10,
+   "level": 12
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "amalek-sharon",
+   "from": 16,
+   "level": 19
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "pana-léro",
+   "from": 8,
+   "level": 10
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "gracaarl-ruthland",
+   "from": 3,
+   "level": 4
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "paxoux-cham",
+   "from": 14,
+   "level": 17
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "anou-chassou",
+   "from": 13,
+   "level": 17
+  },
+  {
+   "date": "2026-11-07",
+   "type": "level",
+   "key": "kiwimaseyi-pourpre",
+   "from": 13,
+   "level": 21
+  },
+  {
+   "date": "2026-11-07",
+   "type": "join",
+   "key": "remi-fasol",
+   "level": 7
+  },
+  {
+   "date": "2026-11-07",
+   "type": "join",
+   "key": "xenion-zopiklon",
+   "level": 10
+  },
+  {
+   "date": "2026-11-07",
+   "type": "join",
+   "key": "haplo-zan",
+   "level": 15
+  },
+  {
+   "date": "2026-11-07",
+   "type": "join",
+   "key": "silias-wunjo",
+   "level": 8
+  },
+  {
+   "date": "2026-11-07",
+   "type": "join",
+   "key": "azélia-coeurmaudit",
+   "level": 12
+  },
+  {
+   "date": "2026-11-07",
+   "type": "join",
+   "key": "galiad-lightwin",
+   "level": 9
+  },
+  {
+   "date": "2026-11-07",
+   "type": "join",
+   "key": "aliah-braven",
+   "level": 6
+  },
+  {
+   "date": "2026-11-07",
+   "type": "join",
+   "key": "spyrak-sangdragon",
+   "level": 9
+  },
+  {
+   "date": "2026-11-07",
+   "type": "join",
+   "key": "machebarbe-courtepatte",
+   "level": 4
+  },
+  {
+   "date": "2026-11-07",
+   "type": "join",
+   "key": "proto-kore",
+   "level": 19
+  },
+  {
+   "date": "2026-11-07",
+   "type": "join",
+   "key": "azir-brok",
+   "level": 8
+  },
+  {
+   "date": "2026-11-07",
+   "type": "join",
+   "key": "homer-dalorres",
+   "level": 6
+  },
+  {
+   "date": "2026-11-07",
+   "type": "join",
+   "key": "helga-portelumière",
+   "level": 3
+  },
+  {
+   "date": "2026-11-07",
+   "type": "join",
+   "key": "kataleya-babou",
+   "level": 5
+  },
+  {
+   "date": "2026-11-07",
+   "type": "join",
+   "key": "murasaki-shidoku",
+   "level": 5
+  },
+  {
+   "date": "2026-11-07",
+   "type": "join",
+   "key": "abbé-hemway",
+   "level": 6
+  },
+  {
+   "date": "2026-11-07",
+   "type": "join",
+   "key": "danté-rouston",
+   "level": 10
+  },
+  {
+   "date": "2026-11-07",
+   "type": "join",
+   "key": "lacalote-djo",
+   "level": 7
+  },
+  {
+   "date": "2026-11-07",
+   "type": "join",
+   "key": "snive-ptitslip",
+   "level": 11
+  },
+  {
+   "date": "2026-11-07",
+   "type": "leave",
+   "key": "healia-tretresse"
+  },
+  {
+   "date": "2026-11-07",
+   "type": "leave",
+   "key": "jacquie-etmichel"
+  },
+  {
+   "date": "2026-11-07",
+   "type": "leave",
+   "key": "spyro-craft"
+  },
   {
    "date": "2026-11-06",
    "type": "level",
@@ -2510,5 +3823,5 @@
    "level": 13
   }
  ],
- "updatedAt": "2026-11-06T19:28:56.592Z"
+ "updatedAt": "2026-11-07T06:06:31.412Z"
 }
